@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\hmunoz\\AndroidStudioProjects\\marcianito2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de-rDE\\values-de-rDE.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hmunoz\\AndroidStudioProjects\\marcianito2\\app\\src\\main\\res\\values-de-rDE\\strings.xml",
+                    "from": {
+                        "startLines": "2,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,152,106",
+                        "endColumns": "47,42,44",
+                        "endOffsets": "100,190,146"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,103,146",
+                        "endColumns": "47,42,44",
+                        "endOffsets": "98,141,186"
+                    }
+                }
+            ]
+        }
+    ]
+}
